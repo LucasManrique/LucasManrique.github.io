@@ -1,0 +1,20 @@
+* {
+    margin:0%;
+    padding: 0%;
+}
+body {
+    background-color: rgb(255, 255, 255);
+
+}
+
+.title .nombre {
+    margin-left: 50px;
+    font-family: 'Poppins', sans-serif;
+}
+.title { 
+    
+    padding: 15px;
+    text-align: left;
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+}
